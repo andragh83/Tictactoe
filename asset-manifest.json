@@ -1,13 +1,13 @@
 {
   "main.css": "/Tictactoe/static/css/main.b6eb69e5.chunk.css",
-  "main.js": "/Tictactoe/static/js/main.7d8631bc.chunk.js",
-  "main.js.map": "/Tictactoe/static/js/main.7d8631bc.chunk.js.map",
+  "main.js": "/Tictactoe/static/js/main.c62083bb.chunk.js",
+  "main.js.map": "/Tictactoe/static/js/main.c62083bb.chunk.js.map",
   "runtime~main.js": "/Tictactoe/static/js/runtime~main.ab3aa8a4.js",
   "runtime~main.js.map": "/Tictactoe/static/js/runtime~main.ab3aa8a4.js.map",
   "static/js/2.d93ee89b.chunk.js": "/Tictactoe/static/js/2.d93ee89b.chunk.js",
   "static/js/2.d93ee89b.chunk.js.map": "/Tictactoe/static/js/2.d93ee89b.chunk.js.map",
   "index.html": "/Tictactoe/index.html",
-  "precache-manifest.988ee07fd96db95008327617bb34d012.js": "/Tictactoe/precache-manifest.988ee07fd96db95008327617bb34d012.js",
+  "precache-manifest.1cd85968bf2b0fe33b9b35115be4e68e.js": "/Tictactoe/precache-manifest.1cd85968bf2b0fe33b9b35115be4e68e.js",
   "service-worker.js": "/Tictactoe/service-worker.js",
   "static/css/main.b6eb69e5.chunk.css.map": "/Tictactoe/static/css/main.b6eb69e5.chunk.css.map"
 }
